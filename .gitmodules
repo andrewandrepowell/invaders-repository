@@ -1,3 +1,6 @@
 [submodule "axiplasma"]
 	path = axiplasma
 	url = https://github.com/plasoc/axiplasma.git
+[submodule "digilent-ip"]
+	path = digilent-ip
+	url = https://github.com/Digilent/vivado-library.git
