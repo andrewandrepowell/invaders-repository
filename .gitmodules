@@ -4,3 +4,6 @@
 [submodule "digilent-ip"]
 	path = digilent-ip
 	url = https://github.com/Digilent/vivado-library.git
+[submodule "invaders"]
+	path = invaders
+	url = https://github.com/andrewandrepowell/invaders-submodule.git
